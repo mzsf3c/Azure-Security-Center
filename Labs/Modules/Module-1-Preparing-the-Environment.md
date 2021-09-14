@@ -111,7 +111,7 @@ When the deployment is complete, you should see the following:
 
 ![Template deployment completed](../Images/asc-workspace-pricing-settings.gif?raw=true)
 
-2. On the Azure Defender Plans page, select **Azure Defender on** and press **Save**. Now both subscription and Log Analytics workspace should be set to **On** for Azure Defender plan.
+2. On the Azure Defender Plans page, select **Azure Defender on** and press **Save**. Now both subscription and Log Analytics workspace should be set to **On** for Azure Defender plan. (Ensure you have **contributor** permissions on the subscription)
 
 ![Enable Azure Defender on the workspace level](../Images/asc-enable-defender-workspace.gif?raw=true)
 
